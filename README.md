@@ -1,4 +1,4 @@
-### Hi, I'm Shane 👋
+### Hi, I'm Shane 🚀
 
 A few of my projects:
 - fork of openpilot, called Stock Additions with a [couple of cool features](https://github.com/shanesmiskol/openpilot#highlight-features) 🚗
